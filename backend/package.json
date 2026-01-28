@@ -1,0 +1,24 @@
+{
+  "name": "job-search-backend",
+  "version": "1.0.0",
+
+  
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "mongoose": "^9.1.5",
+    "multer": "^2.0.2",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.4.530"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
