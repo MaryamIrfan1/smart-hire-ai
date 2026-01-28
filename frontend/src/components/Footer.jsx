@@ -1,9 +1,14 @@
 import React from 'react';
+<<<<<<< HEAD
 import { Link, useLocation } from 'react-router-dom';
+=======
+import { Link } from 'react-router-dom';
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
 import { Briefcase } from 'lucide-react';
 import { FaFacebookF, FaYoutube, FaInstagram, FaTwitter } from "react-icons/fa";
 
 export default function Footer() {
+<<<<<<< HEAD
   const location = useLocation();
   
   // Define pages where footer should NOT appear
@@ -30,6 +35,8 @@ export default function Footer() {
     return null; // Don't render footer on these pages
   }
   
+=======
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
   return (
     <footer className="bg-gray-900 text-gray-300 py-8 md:py-12">
       <div className="container mx-auto px-4">
@@ -87,12 +94,22 @@ export default function Footer() {
         
         <div className="border-t border-gray-800 pt-6 md:pt-8 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-xs md:text-sm text-center md:text-left">© 2024 MyJob - Job Portal. All rights Reserved</p>
+<<<<<<< HEAD
           <div className="flex space-x-4 text-gray-400 hover:text-white">
             <a href="#" className="hover:text-white"><FaFacebookF size={20} /></a>
             <a href="#" className="hover:text-white"><FaYoutube size={20} /></a>
             <a href="#" className="hover:text-white"><FaInstagram size={20} /></a>
             <a href="#" className="hover:text-white"><FaTwitter size={20} /></a>
           </div>
+=======
+<div className="flex space-x-4 text-gray-400 hover:text-white">
+  <a href="#" className="hover:text-white"><FaFacebookF size={20} /></a>
+  <a href="#" className="hover:text-white"><FaYoutube size={20} /></a>
+  <a href="#" className="hover:text-white"><FaInstagram size={20} /></a>
+  <a href="#" className="hover:text-white"><FaTwitter size={20} /></a>
+</div>
+          
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
         </div>
       </div>
     </footer>

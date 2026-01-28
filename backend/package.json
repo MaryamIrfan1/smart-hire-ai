@@ -1,13 +1,18 @@
 {
   "name": "job-search-backend",
   "version": "1.0.0",
+<<<<<<< HEAD
 
   
+=======
+  "type": "module",
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.13.2",
     "bcrypt": "^6.0.0",
     "cors": "^2.8.6",
@@ -17,6 +22,14 @@
     "multer": "^2.0.2",
     "pdf-parse": "^2.4.5",
     "pdfjs-dist": "^5.4.530"
+=======
+    "axios": "^1.6.2",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^9.0.2"
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
   },
   "devDependencies": {
     "nodemon": "^3.1.11"

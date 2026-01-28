@@ -458,5 +458,9 @@ app.listen(PORT, () => {
   console.log(` Environment: ${process.env.NODE_ENV || 'development'}`);
   console.log(` RapidAPI Key: ${RAPIDAPI_KEY ? '✅ Set' : '❌ Missing'}`);
   console.log(`  MongoDB: ${process.env.MONGO_URI ? '✅ Configured' : '❌ Missing'}`);
+<<<<<<< HEAD
 });
 
+=======
+});
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a

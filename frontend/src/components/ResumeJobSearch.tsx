@@ -217,4 +217,8 @@ const ResumeJobSearch: React.FC = () => {
   )
 }
 
+<<<<<<< HEAD
 export default ResumeJobSearch
+=======
+export default ResumeJobSearch
+>>>>>>> c7f93f4b179963699e8a840a35bd41a0158d769a
