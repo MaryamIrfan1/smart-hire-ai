@@ -65,6 +65,31 @@ Searching for jobs often requires visiting multiple platforms, manually filterin
 * Stay updated with relevant opportunities
 
 ---
+## Screenshots
+
+### Home Page
+<img width="1720" height="4607" alt="Home Page" src="https://github.com/user-attachments/assets/bb894cd7-7d83-405f-aa2b-217792d7532e" />
+
+### Job Finder Page
+<img width="1720" height="3096" alt="Job Finder Page" src="https://github.com/user-attachments/assets/a70e3a2e-68b8-4724-bc3c-160d3452934f" />
+
+### Job Detail Page
+<img width="1720" height="1966" alt="Job Detail Page" src="https://github.com/user-attachments/assets/2a95a23e-bfb1-4e39-a870-cbd768c88cdd" />
+
+### Resume / Job Search Page
+<img width="1720" height="2350" alt="Resume Job Search Page" src="https://github.com/user-attachments/assets/ea65f8ea-8023-48aa-abf0-fb88689454d1" />
+
+### Register Page
+<img width="1720" height="1180" alt="Register Page" src="https://github.com/user-attachments/assets/ead0dfa4-d268-43d1-97c2-bacdfe5eb6a7" />
+
+### Login Page
+<img width="1720" height="1180" alt="Login Page" src="https://github.com/user-attachments/assets/4b6ec20a-fdf5-4225-9e3e-8e3e528bb353" />
+
+### User Dashboard
+<img width="1720" height="2004" alt="User Dashboard" src="https://github.com/user-attachments/assets/2e45f788-15ba-4921-adff-3ed6b8bd6662" />
+
+### Setting Page
+<img width="1720" height="1435" alt="Setting Page" src="https://github.com/user-attachments/assets/3dce95ba-1f37-4da7-b502-87208d9b632e" />
 
 ## Tech Stack 🛠️
 
